@@ -14,7 +14,7 @@ The search algorithms can be run on the provided mazes, or you can create and su
 
 ## Example solution
 
-![Depth-first search for the Easy maze](img/maze_solved_example)
+![Depth-first search for the Easy maze](img/maze_solved_example.PNG)
 
 ## License
 
