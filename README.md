@@ -1,5 +1,7 @@
 # Graph search algorithm implementations on mazes
 
+<img src="img/ECM2423.svg" height="28"> <img src="img/Solo.svg" height="28">
+
 > Development has ended
 
 This is the code that was part of my submission for the module Artificial Intelligence and Applications taught by Prof. Ayah Helal. It is a Python program that converts supplied text mazes into graphs and applies either a breadth-first search or a depth-first search to find a solution to the maze and then outputs the solution in text format to the terminal.
